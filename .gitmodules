@@ -1,0 +1,9 @@
+[submodule "vendor/bestxp/EClientScript"]
+	path = vendor/bestxp/EClientScript
+	url = https://bitbucket.org/bestxp/eclientscript.git
+[submodule "vendor/richardkmiller/pest"]
+	path = vendor/richardkmiller/pest
+	url = git://github.com/richardkmiller/pest.git
+[submodule "vendor/2amigos/yiiwheels"]
+	path = vendor/2amigos/yiiwheels
+	url = git://github.com/2amigos/yiiwheels.git
